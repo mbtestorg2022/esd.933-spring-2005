@@ -5,6 +5,7 @@ description: This resource provides information about cross-cultural negotiation
   cross-cultural negotiations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005/def85f0040f975f04559506b06d54c84_tpp_ses7_cr_cul.pdf
 file_type: application/pdf
+parent_uid: 52df980e-134a-afff-b316-e33126963ea1
 resourcetype: Document
 title: tpp_ses7_cr_cul.pdf
 uid: def85f00-40f9-75f0-4559-506b06d54c84
